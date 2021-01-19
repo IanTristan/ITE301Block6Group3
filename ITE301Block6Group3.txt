@@ -1,0 +1,5 @@
+ITE 301 Block 6 Group 3
+Online Grading System for Malued Elementary School
+Due to repetitive mysql connection failures, we did not meet the requirements of the website and connection.
+We would like to apologies for the delay of submissions of the links in the group page sir due to the failure of mysql connection failures.
+ 
